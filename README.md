@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matylda-Gawior
+- 👋 Hi, I’m @Camgurr
 - 👀 I’m interested in making games in the future
 - 🌱 I’m currently learning frontend
 
