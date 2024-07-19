@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matylda-Gawior
-- 👀 I’m interested in programming and movies
+- 👀 I’m interested in making games in the future
 - 🌱 I’m currently learning frontend
 
 <!---
